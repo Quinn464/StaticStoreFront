@@ -1,0 +1,2 @@
+# StaticStoreFront
+StaticStoreFront
